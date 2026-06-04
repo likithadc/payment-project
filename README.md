@@ -1,7 +1,7 @@
 
-  # Donation Payment Page Design
+  # Complete Donation Flow
 
-  This is a code bundle for Donation Payment Page Design. The original project is available at https://www.figma.com/design/dOSpEtNv0SYupq7uDYFRcq/Donation-Payment-Page-Design.
+  This is a code bundle for Complete Donation Flow. The original project is available at https://www.figma.com/design/aIohQF95mtd9MZiV4ghAWD/Complete-Donation-Flow.
 
   ## Running the code
 
